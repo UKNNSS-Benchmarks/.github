@@ -1,4 +1,4 @@
-# UK NNSS Benchmarks
+# UK NNSS Benchmarks
 
 This organisation contains repositories and data relating to the 
 benchmarks for the UK Next National Supercomputing Service (NNSS)
